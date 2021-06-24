@@ -1,4 +1,4 @@
-# Hello App Runner - Node.js 🚀
+# Hello App Runner     - Node.js 🚀
 
 **This is the companion repository for the tutorial "[Enabling continuous workflows for AWS App Runner service with persistency using AWS Copilot CLI](https://aws.amazon.com/blogs/containers/enabling-continuous-workflows-for-aws-app-runner-service-with-persistency-using-aws-copilot-cli/)" on the AWS Containers blog.**
 
